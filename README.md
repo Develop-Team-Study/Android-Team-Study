@@ -33,3 +33,13 @@
 - 윤석준 - [RecyclerView](https://github.com/Develop-Team-Study/Android-Team-Study/tree/master/2020.10.15/RecyclerView)
 
 - 유재민 - [ViewBinding](https://github.com/Develop-Team-Study/Android-Team-Study/tree/master/2020.10.15/ViewBinding)
+
+[ 4회차. 2020.11.5 ]
+
+- 이은별 - [Navigation Graph](https://github.com/Develop-Team-Study/Android-Team-Study/tree/master/2020.11.05)
+
+- 김재원 - [Thread](https://github.com/Develop-Team-Study/Android-Team-Study/tree/master/2020.11.05)
+
+[ 5회차. 2020.11.12 ]
+
+- 윤석준 - [Android Jetpack Compose](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2020.11.12/Android%20Jetpack%20Compose.key)
