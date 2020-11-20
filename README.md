@@ -43,3 +43,4 @@
 [ 5회차. 2020.11.12 ]
 
 - 윤석준 - [Android Jetpack Compose](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2020.11.12/Android%20Jetpack%20Compose.key)
+- 유재민 - [DiffUtil 1편](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2020.11.12/DiffUtil%201%ED%8E%B8.pptx)
