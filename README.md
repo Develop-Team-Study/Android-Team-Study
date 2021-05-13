@@ -49,7 +49,7 @@
 
 [ 5회차. 2020.11.12 ]
 
-- 이은별 - [Kotlin](https://github.com/Develop-Team-Study/Android-Team-Study/tree/master/2021.05.13)
+- 이은별 - [Kotlin](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2021.05.13/kotlin.key)
 
 - 김재원 - [Intent](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2021.05.13/Intent_study.pptx)
 
