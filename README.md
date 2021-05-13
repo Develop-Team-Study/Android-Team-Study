@@ -51,5 +51,5 @@
 
 - 이은별 - [Kotlin](https://github.com/Develop-Team-Study/Android-Team-Study/tree/master/2021.05.13)
 
-- 김재원 - []()
+- 김재원 - [Intent](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2021.05.13/Intent_study.pptx)
 
