@@ -2,7 +2,7 @@
 
 ## :mega: 소개
  > **DMS 5기, 6기, 7기 안드로이드를 공부하는 학생들의 팀 스터디**입니다.  
- 
+
 ## :mute: 규칙
 > 일주일에 2명씩 발표를 진행합니다.  
 > 주제는 되도록 겹치지 않도록 합니다.   
@@ -15,7 +15,6 @@
 
 ## 📃 스터디 의의
 > 전공지식 향상 과 팀원들과의 소통능력 향상
-> 
 
 
 
@@ -78,3 +77,5 @@
 [ 8회차. 2021.06.03 ]
 
 - 이은별 - [Dialog](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2021.06.03/Dialog.key)
+- 김재원 - [AndroidTask&Flag](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2021.06.03/AndroidTask%26Flag.key)
+
