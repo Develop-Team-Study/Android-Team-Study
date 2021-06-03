@@ -47,16 +47,20 @@
 - 유재민 - [DiffUtil 1편](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2020.11.12/DiffUtil%201%ED%8E%B8.pptx)
 
 
-[ 6회차. 2021.05.13 🛰]
+[ 6회차. 2021.05.13 ]
 
 - 이은별 - [Kotlin](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2021.05.13/kotlin.key)
 
 - 김재원 - [Intent](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2021.05.13/Intent_study.pptx)
 
-[ 7회차. 2021.05.20 🚀 ]
+[ 7회차. 2021.05.20 ]
 
 - 유현명 - [Activity의 화면전환](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2021.05.20/2021.5.20%20Activity%20%ED%99%94%EB%A9%B4%20%EC%A0%84%ED%99%98.pptx)
 
 - 임세현 - [Sharedpreferences](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2021.05.20/sharedpreferences_study.pptx)
 
 - 정은호 - [Layout의 3가지](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2021.05.20/%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%203%EA%B0%80%EC%A7%80.pptx)
+
+[ 8회차. 2021.06.03 ]
+
+- 이은별 = [Dialog](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2021.06.03/Dialog.key)
