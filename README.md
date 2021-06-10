@@ -18,13 +18,15 @@
 
 
 
+<br/>
 
+👉🏻 자세한 규칙은 [여기서](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/RULES.md) 확인하세요 !
 
-
-자세한 규칙은 [여기서](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/RULES.md) 확인하세요📱
+<br/>
 
 
 ## 📚 발표 주제
+
 [ 1회차. 2020.09.24 ] 
 
 - 윤석준 - [다양한 화면 크기 지원](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2020.09.24/%EB%8B%A4%EC%96%91%ED%95%9C%20%ED%99%94%EB%A9%B4%20%ED%81%AC%EA%B8%B0%20%EC%A7%80%EC%9B%90.key)
@@ -101,6 +103,13 @@
 
 <br/>
 
+[ 11회차. 2021.06.10 ]
+
+- 임세현 - [사운드 재생](https://github.com/Develop-Team-Study/Android-Team-Study/tree/master/2021.06.10)
+
+<br/>
+
+
 --------------
-오류 혹은 궁금하신 점이 있다면 issue 부탁드립니다 😘
+오류 혹은 궁금하신 점이 있다면 **issue** 부탁드립니다 😘
 
