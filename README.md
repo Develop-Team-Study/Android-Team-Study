@@ -46,35 +46,41 @@
 - 윤석준 - [RecyclerView](https://github.com/Develop-Team-Study/Android-Team-Study/tree/master/2020.10.15/RecyclerView)
 
 - 유재민 - [ViewBinding](https://github.com/Develop-Team-Study/Android-Team-Study/tree/master/2020.10.15/ViewBinding)
+<br/>
 
 [ 4회차. 2020.11.05 ]
 
 - 이은별 - [Navigation Graph](https://github.com/Develop-Team-Study/Android-Team-Study/tree/master/2020.11.05)
 
 - 김재원 - [Thread](https://github.com/Develop-Team-Study/Android-Team-Study/tree/master/2020.11.05)
+<br/>
 
 [ 5회차. 2020.11.12 ]
 
 - 윤석준 - [Android Jetpack Compose](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2020.11.12/Android%20Jetpack%20Compose.key)
 
 - 유재민 - [DiffUtil 1편](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2020.11.12/DiffUtil%201%ED%8E%B8.pptx)
+<br/>
 
 [ 6회차. 2020.11.19 ]
 
 - 이은별 - [Android App Wiget](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2020.11.19/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%B1%20%EC%9C%84%EC%A0%AF%20.key)
 
 - 김재원 - [핸들러 & 루퍼](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2020.11.19/%ED%95%B8%EB%93%A4%EB%9F%AC%26%EB%A3%A8%ED%8D%BC.pptx)
+<br/>
 
 [ 7회차. 2020.11.12 ]
 
 - 윤석준 - [Android Jetpack Compose](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2020.11.12/Android%20Jetpack%20Compose.key)
 
 - 유재민 - [DiffUtil 1편](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2020.11.12/DiffUtil%201%ED%8E%B8.pptx)
+<br/>
 
 
 [ 8회차. 2021.11.26 ]
 
 - 윤석준 - [FCM](https://github.com/Develop-Team-Study/Android-Team-Study/tree/master/2020.11.26)
+<br/>
 
 
 
@@ -86,8 +92,15 @@
 
 - 정은호 - [Layout의 3가지](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2021.05.20/%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%203%EA%B0%80%EC%A7%80.pptx)
 
+<br/>
+
 [ 10회차. 2021.06.03 ]
 
 - 이은별 - [Dialog](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2021.06.03/Dialog.key)
 - 김재원 - [AndroidTask&Flag](https://github.com/Develop-Team-Study/Android-Team-Study/blob/master/2021.06.03/AndroidTask%26Flag.key)
+
+<br/>
+
+--------------
+오류 혹은 궁금하신 점이 있다면 issue 부탁드립니다 😘
 
