@@ -10,9 +10,11 @@
 > 주제는 되도록 겹치지 않도록 합니다.   
 
 ### 💡 발표순서
-> 6기 : 김재원 , 이은별
+> 5기 : [윤석준](https://github.com/tjrwns8024) , [유재민](https://github.com/youjmen)
+>
+> 6기 : [이은별](https://github.com/dlswer23) , [김재원](https://github.com/jaewonkim1468)
 > 
-> 7기 : 임세현 , 유현명 , 정은호
+> 7기 : [임세현](https://github.com/limsaehyun) , [유현명](https://github.com/aahspringaa4) , [정은호](https://github.com/jungeh5324)
 
 
 ### 📃 스터디 의의
