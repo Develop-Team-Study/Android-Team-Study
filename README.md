@@ -110,7 +110,7 @@
 [ 11회차. 2021.06.10 ]
 
 - 임세현 - [사운드 재생](https://github.com/Develop-Team-Study/Android-Team-Study/tree/master/2021.06.10)
-- 유현명 = [Fragment](https://github.com/Develop-Team-Study/Android-Team-Study/tree/master/2021.06.10/Fragment%202021_6_10)
+- 유현명 - [Fragment](https://github.com/Develop-Team-Study/Android-Team-Study/tree/master/2021.06.10/Fragment%202021_6_10)
 
 <br/>
 
